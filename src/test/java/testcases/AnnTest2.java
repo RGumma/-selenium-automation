@@ -5,7 +5,8 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class AnnTest2 {
-
+ 
+	/*   my first test               */
 	
 @BeforeClass
 	
