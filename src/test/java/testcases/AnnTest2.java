@@ -19,7 +19,7 @@ public class AnnTest2 {
 	
 	public void Search() {
 		
-		System.out.println("I am searching");
+		System.out.println("I am searching 2");
 	}
 	
 	@Test(priority=2)
